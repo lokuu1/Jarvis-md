@@ -3,7 +3,7 @@
 
 ####  HY YOU I AM JARVIS A SIMPLE WHATAPP BOT シ︎
 
-Jarvis is a Multi Device whatsapp bot based on whats asena
+Jarvis is a Multi Device whatsapp bot based on x-asena
 
 ***
 #### IF YOU WANT TO DEPLOY JARVIS FOLLOW THE STEPS ✔︎
