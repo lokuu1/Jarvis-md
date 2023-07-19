@@ -1,36 +1,36 @@
 {
-  "name": "x-asena",
-  "version": "2.0.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./bot.js",
+  "name": "Jarvis-MD",
+  "version": "1.0.0",
+  "description": "Explore some ultimate features of whatsapp with this bot.",
+  "main": "./main.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neeraj-x0/x-asena.git"
+    "url": "git+https://github.com/IRONMAN444FF/Jarvis-md.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
-    "ai",
-    "asena",
+    "artificial intelligence",
+    "jarvis",
     "api",
     "unlimited",
-    "asenadev",
+    "iron man",
     "machine learning",
     "automatic",
     "whatsapp web",
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "X-Electra",
-  "developer": "X-Electra / Neeraj-x0",
+  "author": "IRONMAN444FF",
+  "developer": "Jarvis-md / IRONMAN444FF",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Neeraj-x0/x-asena/issues"
+    "url": "https://github.com/IRONMAN444FF/Jarvis-md/issues"
   },
-  "homepage": "https://github.com/Neeraj-x0/x-asena#readme",
+  "homepage": "https://github.com/IRONMAN444FF/Jarvis-md#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
