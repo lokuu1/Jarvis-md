@@ -1,11 +1,11 @@
 {
-  "name": "x-asena",
-  "description": "X-asena Multi Device whatsappbot",
-  "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-  "keywords": ["whatsapp"],
-  "repository": "https://github.com/Neeraj-x0/x-asena",
-  "website": "https://github.com/Neeraj-x0/x-asena",
-  "success_url": "https://github.com/Neeraj-x0/x-asena",
+  "name": "Jarvis-MD",
+  "description": "Jarvis MD a simple whatsapp bot",
+  "logo": "https://i.imgur.com/MTxkVYa.jpeg",
+  "keywords": ["whatsapp", "bot", "jarvis"],
+  "repository": "https://github.com/IRONMAN444FF/Jarvis-MD",
+  "website": "https://github.com/IRONMAN444FF/Jarvis-MD",
+  "success_url": "https://github.com/IRONMAN444FF/Jarvis-MD",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
